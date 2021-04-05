@@ -15,6 +15,7 @@ jgoodies-forms-1.8.0.jar
 miglayout15-swing.jar
 mssql-jdbc-8.4.1.jre8.jar
 ```
+You also have to put the origin database file I have created for this project into your SQL Server Management to have the database
 
 # Running the project
 If you use Microsoft SQL Server Mangement like me, remember to open and run the SQL Server Mangement first to connect to the SQL server so that the application can be fully run with the updated frequently database.
